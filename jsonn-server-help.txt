@@ -1,0 +1,9 @@
+Instalar: npm install -g json-server
+Executar: json-server database.json
+End points que serão criados
+GET    /users
+GET    /users/1
+POST   /users
+PATCH  /users/1
+DELETE /users/1
+documentação: https://github.com/typicode/json-server#getting-started
